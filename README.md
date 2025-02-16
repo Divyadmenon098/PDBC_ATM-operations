@@ -1,2 +1,2 @@
 # PDBC_ATM-operations
-Tried out running the ATM operations as Python Database connector (MySQL)
+Tried out running the ATM operations as Python Database connector SQlite
